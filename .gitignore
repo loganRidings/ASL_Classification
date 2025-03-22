@@ -2,3 +2,16 @@
 ASL_Classification.code-workspace
 diffusion_generator.ipynb
 0_95_accuracy.keras
+test.ipynb
+test.csv
+test_img.txt
+img.txt
+image_yolov4.sh
+Training_data
+Training_imgs
+val_ds
+train_ds
+coco.names
+hand_locator.ipynb
+hand_locator.keras
+live_classify.py

@@ -47,4 +47,3 @@ The model achieved an accuracy of 98% on the test dataset. Further improvements 
 ## Acknowledgements
 
 - Data sourced from Kaggle ASL alphabet dataset.
-- [Any other acknowledgements]
